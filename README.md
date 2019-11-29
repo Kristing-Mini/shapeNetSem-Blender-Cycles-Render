@@ -6,7 +6,7 @@ Tested with Blender 2.79.
 Tested on Linux, Windows.
 
 <!-- Brief Statement-->
-##Brief Statement
+##Brief Statement  
 We can get RGB images, depth, and mask from this scripts.  
 Download the .obj files and .mtl files from ShapeNet website.  
 Download the textures.zip from ShapeNet website and extract to the folder where the .obj files and .mtl files are located.  
