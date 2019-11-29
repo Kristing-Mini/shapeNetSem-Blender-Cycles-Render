@@ -20,7 +20,7 @@ For example,
 If you want to render with Cycles Render engines, just change the python file to  cycles.py
 Also, you can move the <code>background</code> option. The <code>background</code> options is used for UI-less rendering.
 ## Example
-![Image text](https://github.com/Kristing-Mini/shapeNetSem-Blender-Cycles-Render/tree/master/example/chair.png)
+![Image text](./example/chair.png)
 
 
 
