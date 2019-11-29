@@ -222,7 +222,7 @@ def generate_img(object_path, num, filename):
             v.co *= 2
 
         bpy.ops.object.modifier_add(type='DISPLACE')
-        bpy.context.object.modifiers['Displace'].strength = 1e-04
+        bpy.context.object.modifiers['Displace'].strength = 1e-05
         bpy.ops.object.modifier_apply(apply_as='DATA', modifier='Displace')
         select_object.rotation_euler[0] = radians(0)
 
