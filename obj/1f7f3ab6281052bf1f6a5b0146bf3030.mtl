@@ -1,0 +1,28 @@
+newmtl m0
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+d 0
+map_Ka 261581d34f4c6274.jpg
+map_Kd 261581d34f4c6274.jpg
+newmtl m2
+Ka 1 0.498039 0.498039
+Kd 1 0.498039 0.498039
+Ks 0.0 0.0 0.0
+Ns 1.0
+d 0
+newmtl m1
+Ka 0.8 1 1
+Kd 0.8 1 1
+Ks 0.0 0.0 0.0
+Ns 1.0
+d 0
+newmtl m3
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ns 1.0
+d 0
+map_Ka 4e8b78594b1fdce6.jpg
+map_Kd 4e8b78594b1fdce6.jpg
